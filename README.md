@@ -57,5 +57,5 @@
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=ashrafeesa&show_icons=true&theme=dark&locale=en" alt="ashrafeesa" />
 </p>
 
-<img src="212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.giff" alt="Animated Grid Visualization" width="880" height="192">
+
 
