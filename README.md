@@ -57,10 +57,8 @@
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=ashrafeesa&show_icons=true&theme=dark&locale=en" alt="ashrafeesa" />
 </p>
 
-#### Save My contribution graph:
-<p align="center">
-  <img src="https://github.com/ashrafeesa/ashrafeesa/blob/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Graph" />
-</p>
+#### Save My contribution graph :
+![github-contribution-grid-snake](https://github.com/ashrafeesa/ashrafeesa/blob/output/github-contribution-grid-snake-dark.svg)
 
 <br clear="both">
 
