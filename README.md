@@ -3,8 +3,6 @@
   <img src="Screenshot 2025-02-03 082359.png" alt="Profile Banner">
 </p>
 
-<h1 align="center">Hey! I am [Ashraf Eesa] </h1>
-<h3 align="center">Data Analyst || Passionate Data Engineer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YourUsername&label=Profile%20views&color=blue&style=flat" alt="profile views" />
@@ -17,14 +15,13 @@
 
 ---
 
-### 🛠 Tools and Frameworks:
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+###  Tools and Frameworks:
+<a href="https://linkedin.com/in/ashraf k.eesa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashraf k.eesa" height="30" width="40" /></a>
+<a href="https://kaggle.com/ashraf eesa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ashraf eesa" height="30" width="40" /></a>
+<a href="https://fb.com/ashraf eesa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashraf eesa" height="30" width="40" /></a>
+<a href="https://instagram.com/ashraf.eesa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashraf.eesa" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/ashraf.eesa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ashraf.eesa" height="30" width="40" /></a>
 </p>
-
 ---
 
 ### 📊 GitHub Stats:
