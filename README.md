@@ -45,7 +45,7 @@
 
 
 ###  Connect with Me:
-<a href="https://linkedin.com/in/ashraf k.eesa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashrafeesa" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ashraf-k-eesa-b8b8802b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashrafeesa" height="30" width="40" /></a>
 <a href="https://kaggle.com/ashraf eesa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ashrafeesa" height="30" width="40" /></a>
 <a href="https://www.facebook.com/Ashrafeesa66" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashrafeesa" height="30" width="40" /></a>
 <a href="https://instagram.com/ashraf.eesa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashrafeesa" height="30" width="40" /></a>
