@@ -8,57 +8,50 @@
   <img src="https://komarev.com/ghpvc/?username=YourUsername&label=Profile%20views&color=blue&style=flat" alt="profile views" />
 </p>
 
-### 🚀 About Me:
-- 🏗️ I'm currently working on expanding my knowledge in Data Engineering.
-- 🤝 I’m looking to collaborate on **data-driven projects** involving **Data Engineering and Analytics**.
-- 📌 Currently learning **Apache Spark, Apache Airflow**, and **advanced data processing** techniques.
+<h4 align="center">🔭 I’m currently working on expanding my knowledge in Data Engineering and applying it to real-world projects.<br>👯 I’m looking to collaborate on data-driven projects that involve Data Engineering and Analytics.<br>🤝 I’m looking for help with advanced Data Engineering techniques and best practices.<br>🌱 I’m currently learning advanced data processing frameworks like Apache Spark and data pipeline orchestration tools like Apache Airflow.<br>💬 Ask me about Data Engineering, Data Analytics, and Machine Learning. I'm always excited to discuss and share insights.<br>⚡ Fun fact: I love finding creative solutions to complex data problems and turning raw data into valuable information that drives decision-making.</h4>
+
 
 ---
 
 ###  Tools and Frameworks:
-<p align="left"> 
-  <!-- C++ -->
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a> 
-  
-  <!-- Python -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  
-  <!-- NumPy -->
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="numpy" width="40" height="40"/> 
-  </a> 
-  
-  <!-- Pandas -->
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-  </a> 
-  
-  <!-- Seaborn -->
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
-  </a> 
-  
-  <!-- MySQL -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-</p>
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/numpy/013243" height="30" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/pandas/150458" height="30" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kafka" height="30" alt="apachekafka logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="30" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="30" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=powershell" height="30" alt="powershell logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cplusplus logo"  />
+</div>
 
 
 ---
 
-### 📊 GitHub Stats:
+###  GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=dark" />
 </p>
 
 ---
 
-### 🚀 Most Used Languages:
+###  Most Used Languages:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=dark" />
 </p>
@@ -74,14 +67,14 @@
 </p>
 ---
 
-## 🔥 Contribution Graph:
+##  Contribution Graph:
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=dark" />
 </p>
 
 ---
 
-## 🚀 Activity Graph:
+##  Activity Graph:
 <p align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=YourUsername&theme=github-dark" />
 </p>
