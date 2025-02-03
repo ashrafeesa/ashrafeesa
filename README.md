@@ -42,21 +42,7 @@
 </div>
 
 
----
 
-###  GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=dark" />
-</p>
-
----
-
-###  Most Used Languages:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=dark" />
-</p>
-
----
 
 ###  Connect with Me:
 <a href="https://linkedin.com/in/ashraf k.eesa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashraf k.eesa" height="30" width="40" /></a>
@@ -67,14 +53,3 @@
 </p>
 ---
 
-##  Contribution Graph:
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=dark" />
-</p>
-
----
-
-##  Activity Graph:
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=YourUsername&theme=github-dark" />
-</p>
