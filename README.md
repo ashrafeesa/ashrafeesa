@@ -52,4 +52,8 @@
 <a href="https://codeforces.com/profile/ashraf.eesa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ashraf.eesa" height="30" width="40" /></a>
 </p>
 ---
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashrafeesa&show_icons=true&theme=dark&locale=en&layout=compact" alt="ashrafeesa" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ashrafeesa&show_icons=true&theme=dark&locale=en" alt="ashrafeesa" />
+</p>
 
