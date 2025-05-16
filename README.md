@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="Screenshot 2025-02-03 082359.png" alt="Profile Banner">
+  <img src="Black Minimal Motivation Quote LinkedIn Banner.jpg">
 </p>
 
 
